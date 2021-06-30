@@ -29,7 +29,7 @@ export default function Write() {
             autoFocus={true}
           />
         </div>
-        <button onclick={alert("Hello World!")} className="writeSubmit" type="submit">
+        <button className="writeSubmit" type="submit">
           Publish
         </button>
       </form>
